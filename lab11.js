@@ -1,7 +1,4 @@
 $(document).ready(function(){
-  /*$('button').click(function(){
-    $('div').slideToggle('slow');
-  });*/
   
   $('li').hover(function(){
     $(this).fadeTo(300, 0.25);
